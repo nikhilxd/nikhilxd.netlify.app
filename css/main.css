@@ -1,0 +1,40 @@
+.site-header{
+    /* background-color: #1bbc9b;  */
+    color: black;
+    height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mail-link{
+    color: gray;
+}
+
+
+.site-header-content{
+    margin: 10px;
+}
+
+
+.profile-pic{
+    border-radius: 50%;
+    align-self: center;
+    box-shadow: black 2px 5px 5px;
+    
+}
+
+
+
+body {
+    margin: 0px;
+    background-image: url("../patternbg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
+
